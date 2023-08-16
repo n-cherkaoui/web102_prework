@@ -209,9 +209,3 @@ const secondGameHolder = document.createElement("second-game")
 secondGameHolder.innerHTML = `
 <p>${secondGame.name}<\p>`
 secondGameContainer.appendChild(secondGameHolder)
-
-/************************************************************************************
- * Bonus Challenge: Navigate to Our Games from nav bar
- */
-
-const ourGamesButton = document.getElementsByClassName("")
